@@ -1,5 +1,5 @@
 ## getCryptoPrice
-This script is built to get the specific cryptocurrency pricees in your terminal
+This script is built to get specific cryptocurrency pricees in your terminal
 
 ## Getting start
 Go coinMarketCap to get your free api key first. Then paste the key to the key.py file. Run the .sh file and type the cryptocurrency you want. The price will show up properly.
